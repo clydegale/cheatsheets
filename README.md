@@ -1,41 +1,41 @@
 # Cheatsheets
 Taken this great [twitter feed](https://threadreaderapp.com/thread/1368241476753371140.html)
 
-[[/img/Evz0nCYWQAERs7o.png|]]
-[[/img/Evz2P8FWYAYFrzX.jpg|]]
-[[/img/Evz2Ye2WQAIwHbH.jpg|]]
-[[/img/Evz2hXQWEAI3pru.jpg|]]
-[[/img/Evz2nHgXcAEf2vT.jpg|]]
-[[/img/Evz2v6gXYAY0lTD.jpg|]]
-[[/img/Evz20J0WQAcAAPP.jpg|]]
-[[/img/Evz243ZXYAcB6za.jpg|]]
-[[/img/Evz2-12XcAUEHAv.jpg|]]
-[[/img/Evz3DpLWYAgmP0a.jpg|]]
-[[/img/Evz3JtMXcAUKOb2.jpg|]]
-[[/img/Evz3PQUXcAAFaKs.jpg|]]
-[[/img/Evz3TypWYAElfWM.png|]]
-[[/img/Evz3YmmXYAMkdyq.jpg|]]
-[[/img/Evz3ehzXcAQzcgZ.jpg|]]
-[[/img/Evz3nZRXAAEBzYD.jpg|]]
-[[/img/Evz3udNXMAAfGIW.jpg|]]
-[[/img/Evz3yR-WEAMkg9m.png|]]
-[[/img/Evz37h6WEAc3FOt.jpg|]]
-[[/img/Evz5DVZXAAIWCtl.jpg|]]
-[[/img/Evz5J9gXYAESAn3.png|]]
-[[/img/Evz5WImWEAc5Qox.jpg|]]
-[[/img/Evz5cTSWEAENgIO.png|]]
-[[/img/Evz5rj6WQAA6Chu.jpg|]]
-[[/img/Evz589qXAAYmzhv.png|]]
-[[/img/Evz6H5jXYAsZdSf.png|]]
-[[/img/Evz6PX1XIAIGO5M.jpg|]]
-[[/img/Evz6WC4WYAMYz3f.png|]]
-[[/img/Evz6d_zXcAsg7IM.jpg|]]
-[[/img/Evz6nMDWQAU3DCX.jpg|]]
-[[/img/Evz6070WQAA8ehj.png|]]
-[[/img/Evz68thXAAM2cua.jpg|]]
-[[/img/Evz7ExDWYAE36Q1.png|]]
-[[/img/Evz7LH9XEAAnEbl.png|]]
-[[/img/Evz7Sd5WQAUwRaZ.jpg|]]
-[[/img/Evz7Ya_WgAgkaIR.jpg|]]
-[[/img/Evz7cxKXAAEDqrD.jpg|]]
-[[/img/Evz7xofWgAMChXA.jpg|]]
+![](/img/Evz0nCYWQAERs7o.png?raw=true "Title")
+![](/img/Evz2P8FWYAYFrzX.jpg?raw=true "Title")
+![](/img/Evz2Ye2WQAIwHbH.jpg?raw=true "Title")
+![](/img/Evz2hXQWEAI3pru.jpg?raw=true "Title")
+![](/img/Evz2nHgXcAEf2vT.jpg?raw=true "Title")
+![](/img/Evz2v6gXYAY0lTD.jpg?raw=true "Title")
+![](/img/Evz20J0WQAcAAPP.jpg?raw=true "Title")
+![](/img/Evz243ZXYAcB6za.jpg?raw=true "Title")
+![](/img/Evz2-12XcAUEHAv.jpg?raw=true "Title")
+![](/img/Evz3DpLWYAgmP0a.jpg?raw=true "Title")
+![](/img/Evz3JtMXcAUKOb2.jpg?raw=true "Title")
+![](/img/Evz3PQUXcAAFaKs.jpg?raw=true "Title")
+![](/img/Evz3TypWYAElfWM.png?raw=true "Title")
+![](/img/Evz3YmmXYAMkdyq.jpg?raw=true "Title")
+![](/img/Evz3ehzXcAQzcgZ.jpg?raw=true "Title")
+![](/img/Evz3nZRXAAEBzYD.jpg?raw=true "Title")
+![](/img/Evz3udNXMAAfGIW.jpg?raw=true "Title")
+![](/img/Evz3yR-WEAMkg9m.png?raw=true "Title")
+![](/img/Evz37h6WEAc3FOt.jpg?raw=true "Title")
+![](/img/Evz5DVZXAAIWCtl.jpg?raw=true "Title")
+![](/img/Evz5J9gXYAESAn3.png?raw=true "Title")
+![](/img/Evz5WImWEAc5Qox.jpg?raw=true "Title")
+![](/img/Evz5cTSWEAENgIO.png?raw=true "Title")
+![](/img/Evz5rj6WQAA6Chu.jpg?raw=true "Title")
+![](/img/Evz589qXAAYmzhv.png?raw=true "Title")
+![](/img/Evz6H5jXYAsZdSf.png?raw=true "Title")
+![](/img/Evz6PX1XIAIGO5M.jpg?raw=true "Title")
+![](/img/Evz6WC4WYAMYz3f.png?raw=true "Title")
+![](/img/Evz6d_zXcAsg7IM.jpg?raw=true "Title")
+![](/img/Evz6nMDWQAU3DCX.jpg?raw=true "Title")
+![](/img/Evz6070WQAA8ehj.png?raw=true "Title")
+![](/img/Evz68thXAAM2cua.jpg?raw=true "Title")
+![](/img/Evz7ExDWYAE36Q1.png?raw=true "Title")
+![](/img/Evz7LH9XEAAnEbl.png?raw=true "Title")
+![](/img/Evz7Sd5WQAUwRaZ.jpg?raw=true "Title")
+![](/img/Evz7Ya_WgAgkaIR.jpg?raw=true "Title")
+![](/img/Evz7cxKXAAEDqrD.jpg?raw=true "Title")
+![](/img/Evz7xofWgAMChXA.jpg?raw=true "Title")
