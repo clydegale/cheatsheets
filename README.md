@@ -15,22 +15,12 @@ Taken this great [twitter feed](https://threadreaderapp.com/thread/1368241476753
 ![](/img/Evz2v6gXYAY0lTD.jpg?raw=true)
 ### What is IDS & IPS?
 ![](/img/Evz20J0WQAcAAPP.jpg?raw=true)
-### Some terms you may find in Infosec
-![](/img/Evz243ZXYAcB6za.jpg?raw=true)
-### What is ATM Jackpotting?
-![](/img/Evz2-12XcAUEHAv.jpg?raw=true)
 ### What is Kerberos and How it works?
 ![](/img/Evz3DpLWYAgmP0a.jpg?raw=true)
 ### What is Kubernetes?
 ![](/img/Evz3JtMXcAUKOb2.jpg?raw=true)
 ### What is LDAP and How it works?
 ![](/img/Evz3PQUXcAAFaKs.jpg?raw=true)
-### What is Metasploit
-![](/img/Evz3YmmXYAMkdyq.jpg?raw=true)
-### What is MFA and its benefits?
-![](/img/Evz3ehzXcAQzcgZ.jpg?raw=true)
-### What is Mimikatz?
-![](/img/Evz3nZRXAAEBzYD.jpg?raw=true)
 ### Some useful tools for Mobile APP Securoty Testing
 ![](/img/Evz3yR-WEAMkg9m.png?raw=true)
 ### What is a Man-In-The-Middle (MITM) attack?
@@ -45,18 +35,12 @@ Taken this great [twitter feed](https://threadreaderapp.com/thread/1368241476753
 ![](/img/Evz5cTSWEAENgIO.png?raw=true)
 ### SOme good practices to avoid social engineering attacks
 ![](/img/Evz589qXAAYmzhv.png?raw=true)
-### Potentially major flaws in an Information System
-![](/img/Evz6H5jXYAsZdSf.png?raw=true)
-### What is Signal?
-![](/img/Evz6PX1XIAIGO5M.jpg?raw=true)
 ### Some good tools useful for Forensics
 ![](/img/Evz6d_zXcAsg7IM.jpg?raw=true)
 ### Some good tools useful for OSINT
 ![](/img/Evz6070WQAA8ehj.png?raw=true)
 ### What is Tor and how does it work?
 ![](/img/Evz68thXAAM2cua.jpg?raw=true)
-### Most used Vulnerability Scanners
-![](/img/Evz7ExDWYAE36Q1.png?raw=true)
 ### What is Wireshark?
 ![](/img/Evz7Sd5WQAUwRaZ.jpg?raw=true)
 ### What is an XSS attack?
